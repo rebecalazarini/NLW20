@@ -16,7 +16,7 @@
 
 # Como testar:
 - Primeiro va em https://cloud.google.com/ ou [cloud](https://cloud.google.com/) 
-- E clique em console n aparte superior direita
+- E clique em console na parte superior direita
 - Na parte superior esquereda clique em selecione um projeto
 - Novo projeto na parte superior direita
 - Coloque o nome do prejeto de nlw20 e não precisa colocar organização e clique em criar
